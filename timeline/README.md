@@ -1,6 +1,7 @@
-# Timeline
+a # Timeline
 
 [Website](http://www.shindiristudio.com/timeline/)
+
 [documentation](http://www.shindiristudio.com/timeline/documentation.html)
 
 
