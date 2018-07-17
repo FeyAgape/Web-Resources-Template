@@ -1,64 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 
-@font-face {
-    font-family: 'BebasNeueRegular';
-    src: url('fonts/bebas/bebasneue-webfont.eot');
-    src: url('fonts/bebas/bebasneue-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/bebas/bebasneue-webfont.woff') format('woff'),
-         url('fonts/bebas/bebasneue-webfont.ttf') format('truetype'),
-         url('fonts/bebas/bebasneue-webfont.svg#BebasNeueRegular') format('svg');
-    font-weight: normal;
-    font-style: normal;
 
-}
-
-@font-face {
-    font-family: 'PT Sans';
-    src: url('fonts/ptsans/pts55f-webfont.eot');
-    src: url('fonts/ptsans/pts55f-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/ptsans/pts55f-webfont.woff') format('woff'),
-         url('fonts/ptsans/pts55f-webfont.ttf') format('truetype'),
-         url('fonts/ptsans/pts55f-webfont.svg#PTSansRegular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-h1,h2,h3,h4,h5,h6 {
-	font-family: 'BebasNeueRegular', Sans;
-	font-weight: normal;
-	color:#313131;
-	margin:10px 0;
-}
-h1 {
-	font-size:38px;
-}
-h2 {
-	font-size:30px;
-}
-h3 {
-	font-size:22px;
-}
-h4 {
-	font-size:20px;
-}
-body {
-	background:#fff url(../images/background.png) repeat;
-	font-family: 'PT Sans', Sans-Serif;
-	font-size:14px;
-	margin:0;
-	text-align:center;
-}
-a {
-	text-decoration:none;
-	color:#dd5555;
-}
-
-a img {
-	border:0;
-}
 .clear {
 	clear:both;
 }
@@ -182,3 +125,4 @@ td {
 	padding:10px;
     background: #f2f2f2;
 }
+
