@@ -1,4 +1,4 @@
-a # Timeline
+# Timeline
 
 [Website](http://www.shindiristudio.com/timeline/)
 
