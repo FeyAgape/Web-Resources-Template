@@ -1,5 +1,17 @@
 # WOW.js [![Build Status](https://secure.travis-ci.org/graingert/WOW.svg?branch=master)](http://travis-ci.org/graingert/WOW)
 
+## Script
+
+The scrit to put in after your div
+`<!--[if gt IE 8]><!-->
+        <script>
+        new WOW({
+      mobile: false
+    }).init();
+        </script>
+        <!--<![endif]-->`
+
+
 Temporary deprecation:
 ======================
 
