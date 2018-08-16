@@ -1,0 +1,17 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "project using sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "author": "Fey Ijaware",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1"
+  }
+}

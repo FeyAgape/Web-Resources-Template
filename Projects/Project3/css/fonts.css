@@ -1,0 +1,99 @@
+@font-face {
+  font-family: 'AdelleSansSAGE-Regular';
+  src: url('../fonts/AdelleSansSAGE-Regular.woff') format('woff'),
+       url('../fonts/AdelleSansSAGE-Regular.ttf') format('truetype'),
+       url('../fonts/AdelleSansSAGE-Regular.svg#AdelleSansSAGE-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AdelleSansSAGE_gdi';
+  src: url('../fonts/AdelleSansSAGE_gdi.eot');
+  src: url('../fonts/AdelleSansSAGE_gdi.woff2') format('woff2'),
+       url('../fonts/AdelleSansSAGE_gdi.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AdelleSansSAGE-Bold';
+  src: url('../fonts/AdelleSansSAGE-Bold.woff') format('woff'),
+       url('../fonts/AdelleSansSAGE-Bold.ttf') format('truetype'),
+       url('../fonts/AdelleSansSAGE-Bold.svg#AdelleSansSAGE-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AdelleSansSAGE-Bold_gdi';
+  src: url('../fonts/AdelleSansSAGE-Bold_gdi.eot');
+  src: url('../fonts/AdelleSansSAGE-Bold_gdi.woff2') format('woff2'),
+       url('../fonts/AdelleSansSAGE-Bold_gdi.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AdelleSansSAGELt-Regular';
+  src: url('../fonts/AdelleSansSAGELt-Regular.woff') format('woff'),
+       url('../fonts/AdelleSansSAGELt-Regular.ttf') format('truetype'),
+       url('../fonts/AdelleSansSAGELt-Regular.svg#AdelleSansSAGELt-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AdelleSansSAGELt_gdi';
+  src: url('../fonts/AdelleSansSAGELt_gdi.eot');
+  src: url('../fonts/AdelleSansSAGELt_gdi.woff2') format('woff2'),
+       url('../fonts/AdelleSansSAGELt_gdi.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AdelleSansSAGELt-Italic';
+  src: url('../fonts/AdelleSansSAGELt-Italic.woff') format('woff'),
+       url('../fonts/AdelleSansSAGELt-Italic.ttf') format('truetype'),
+       url('vAdelleSansSAGELt-Italic.svg#AdelleSansSAGELt-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AdelleSansSage-LightItalic';
+  src: url('../fonts/AdelleSansSage-LightItalic.eot');
+  src: url('../fonts/AdelleSansSage-LightItalic.woff2') format('woff2'),
+       url('../fonts/AdelleSansSage-LightItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AdelleSansSAGE-BoldItalic';
+  src: url('../fonts/AdelleSansSAGE-BoldItalic.woff') format('woff'),
+       url('../fonts/AdelleSansSAGE-BoldItalic.ttf') format('truetype'),
+       url('../fonts/AdelleSansSAGE-BoldItalic.svg#AdelleSansSAGE-BoldItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AdelleSansSage-BoldItalic';
+  src: url('../fonts/AdelleSansSage-BoldItalic.eot');
+  src: url('../fonts/AdelleSansSage-BoldItalic.woff2') format('woff2'),
+       url('../fonts/AdelleSansSage-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+  font-family: 'AdelleSansSAGELt-Regular';
+
+}
+
+html {
+ font-family: 'AdelleSansSAGELt-Regular';
+}
